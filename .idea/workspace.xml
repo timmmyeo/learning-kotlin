@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766fcee8-d2ff-4451-b94a-ed3151a72167" name="Default Changelist" comment="" />
+    <list default="true" id="b89fcd72-911e-4efb-ba28-58870f93e611" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +18,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1mZvv8cfXejreYocHQz3LAxbOG4" />
+  <component name="ProjectId" id="1ma1guam5NZKwkPnu37411GFrQ2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,29 +36,99 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+  <component name="RunManager" selected="Application.Lambda2Kt">
+    <configuration name="Filters2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Filters2Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lambda2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Lambda2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LamdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RandomKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Filters2Kt" />
+      <item itemvalue="Application.MainKt" />
+      <item itemvalue="Application.LamdasKt" />
+      <item itemvalue="Application.RandomKt" />
+      <item itemvalue="Application.Lambda2Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lambda2Kt" />
+        <item itemvalue="Application.RandomKt" />
+        <item itemvalue="Application.LamdasKt" />
+        <item itemvalue="Application.Filters2Kt" />
+        <item itemvalue="Application.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="766fcee8-d2ff-4451-b94a-ed3151a72167" name="Default Changelist" comment="" />
-      <created>1609714159437</created>
+      <changelist id="b89fcd72-911e-4efb-ba28-58870f93e611" name="Default Changelist" comment="" />
+      <created>1609717005420</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609714159437</updated>
-      <workItem from="1609714162145" duration="454000" />
-      <workItem from="1609714684087" duration="2304000" />
+      <updated>1609717005420</updated>
+      <workItem from="1609717006534" duration="8770000" />
+      <workItem from="1609852819640" duration="1193000" />
     </task>
     <servers />
   </component>

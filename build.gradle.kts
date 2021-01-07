@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    kotlin("jvm") version "1.4.10"
+    kotlin("jvm") version "1.4.21"
 }
 
 group = "me.tim"
@@ -13,7 +13,6 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test-junit"))
-    implementation(kotlin("script-runtime"))
 }
 
 tasks.test {
