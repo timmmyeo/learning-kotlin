@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ma1guam5NZKwkPnu37411GFrQ2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,7 +39,18 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Lambda2Kt">
+  <component name="RunManager" selected="Application.FiltersKt">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Filters2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="hello_world_2.main" />
       <option name="VM_PARAMETERS" />
@@ -45,6 +59,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Filters2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FiltersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="hello_world_2.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FiltersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="hello_world_2.main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RandomKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="hello_world_2.main" />
       <option name="VM_PARAMETERS" />
@@ -104,18 +118,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Filters2Kt" />
-      <item itemvalue="Application.MainKt" />
       <item itemvalue="Application.LamdasKt" />
       <item itemvalue="Application.RandomKt" />
       <item itemvalue="Application.Lambda2Kt" />
+      <item itemvalue="Application.FiltersKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FiltersKt" />
         <item itemvalue="Application.Lambda2Kt" />
         <item itemvalue="Application.RandomKt" />
         <item itemvalue="Application.LamdasKt" />
         <item itemvalue="Application.Filters2Kt" />
-        <item itemvalue="Application.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +143,7 @@
       <updated>1609717005420</updated>
       <workItem from="1609717006534" duration="8770000" />
       <workItem from="1609852819640" duration="1193000" />
+      <workItem from="1610060322683" duration="1397000" />
     </task>
     <servers />
   </component>
